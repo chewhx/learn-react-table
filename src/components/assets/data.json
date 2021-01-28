@@ -1,0 +1,702 @@
+[
+  {
+    "date": "2020-10-03T18:49:29Z",
+    "code": "BDT",
+    "payee": "Richmont Mines, Inc.",
+    "debit": "$2011.97",
+    "credit": "$1570.54"
+  },
+  {
+    "date": "2020-09-12T15:13:15Z",
+    "code": "CNY",
+    "payee": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp",
+    "debit": "$605.93",
+    "credit": "$1299.43"
+  },
+  {
+    "date": "2020-10-12T19:31:19Z",
+    "code": "PGK",
+    "payee": "iPath US Treasury 2-year Bear ETN",
+    "debit": "$929.17",
+    "credit": "$1389.28"
+  },
+  {
+    "date": "2020-07-18T00:35:58Z",
+    "code": "PHP",
+    "payee": "Ashford Hospitality Trust Inc",
+    "debit": "$8.68",
+    "credit": "$1804.50"
+  },
+  {
+    "date": "2020-06-14T10:13:38Z",
+    "code": "CNY",
+    "payee": "Superior Uniform Group, Inc.",
+    "debit": "$478.20",
+    "credit": "$1704.62"
+  },
+  {
+    "date": "2020-01-19T17:56:10Z",
+    "code": "ALL",
+    "payee": "Gabelli Equity Trust, Inc. (The)",
+    "debit": "$414.89",
+    "credit": "$1100.76"
+  },
+  {
+    "date": "2020-06-25T17:35:48Z",
+    "code": "EUR",
+    "payee": "Sunoco LP",
+    "debit": "$772.40",
+    "credit": "$1500.26"
+  },
+  {
+    "date": "2020-01-08T23:59:11Z",
+    "code": "CNY",
+    "payee": "PowerShares DWA Tactical Multi-Asset Income Portfolio",
+    "debit": "$610.64",
+    "credit": "$1482.01"
+  },
+  {
+    "date": "2021-01-22T03:06:31Z",
+    "code": "KPW",
+    "payee": "lululemon athletica inc.",
+    "debit": "$2031.08",
+    "credit": "$677.31"
+  },
+  {
+    "date": "2020-07-15T01:23:48Z",
+    "code": "PHP",
+    "payee": "Cytokinetics, Incorporated",
+    "debit": "$3389.32",
+    "credit": "$520.95"
+  },
+  {
+    "date": "2020-11-16T14:31:45Z",
+    "code": "ETB",
+    "payee": "Baidu, Inc.",
+    "debit": "$3350.35",
+    "credit": "$947.58"
+  },
+  {
+    "date": "2020-06-04T12:52:55Z",
+    "code": "RUB",
+    "payee": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",
+    "debit": "$2976.97",
+    "credit": "$1168.66"
+  },
+  {
+    "date": "2020-03-31T06:24:59Z",
+    "code": "MZN",
+    "payee": "Piper Jaffray Companies",
+    "debit": "$2043.05",
+    "credit": "$885.67"
+  },
+  {
+    "date": "2020-03-01T03:13:35Z",
+    "code": "CNY",
+    "payee": "Banco Bradesco Sa",
+    "debit": "$3354.52",
+    "credit": "$907.39"
+  },
+  {
+    "date": "2020-08-25T09:17:50Z",
+    "code": "PHP",
+    "payee": "Natus Medical Incorporated",
+    "debit": "$2154.39",
+    "credit": "$1688.52"
+  },
+  {
+    "date": "2020-10-05T03:03:12Z",
+    "code": "CNY",
+    "payee": "CSRA Inc.",
+    "debit": "$1449.44",
+    "credit": "$1478.79"
+  },
+  {
+    "date": "2020-09-07T11:46:33Z",
+    "code": "PHP",
+    "payee": "Reynolds American Inc",
+    "debit": "$550.02",
+    "credit": "$1581.51"
+  },
+  {
+    "date": "2020-02-20T08:23:56Z",
+    "code": "BOB",
+    "payee": "Inseego Corp.",
+    "debit": "$1659.19",
+    "credit": "$1778.67"
+  },
+  {
+    "date": "2020-06-15T01:31:32Z",
+    "code": "XOF",
+    "payee": "SecureWorks Corp.",
+    "debit": "$2555.84",
+    "credit": "$525.59"
+  },
+  {
+    "date": "2020-09-29T20:26:43Z",
+    "code": "RUB",
+    "payee": "CarMax Inc",
+    "debit": "$3861.89",
+    "credit": "$1275.62"
+  },
+  {
+    "date": "2020-07-19T17:05:17Z",
+    "code": "HRK",
+    "payee": "iStar Financial Inc.",
+    "debit": "$1270.28",
+    "credit": "$1510.56"
+  },
+  {
+    "date": "2020-02-16T07:18:19Z",
+    "code": "IDR",
+    "payee": "FCB Financial Holdings, Inc.",
+    "debit": "$3174.01",
+    "credit": "$717.91"
+  },
+  {
+    "date": "2020-10-09T23:01:11Z",
+    "code": "BRL",
+    "payee": "BRT Apartments Corp.",
+    "debit": "$1968.60",
+    "credit": "$1611.46"
+  },
+  {
+    "date": "2020-01-19T20:18:10Z",
+    "code": "USD",
+    "payee": "Orthofix International N.V.",
+    "debit": "$593.30",
+    "credit": "$1816.39"
+  },
+  {
+    "date": "2020-09-01T06:22:43Z",
+    "code": "PYG",
+    "payee": "Invesco Trust  for Investment Grade New York Municipal",
+    "debit": "$94.70",
+    "credit": "$1528.59"
+  },
+  {
+    "date": "2020-03-30T16:48:06Z",
+    "code": "IDR",
+    "payee": "Digital Realty Trust, Inc.",
+    "debit": "$898.70",
+    "credit": "$1882.57"
+  },
+  {
+    "date": "2020-10-03T17:08:31Z",
+    "code": "RUB",
+    "payee": "Echelon Corporation",
+    "debit": "$2705.50",
+    "credit": "$1839.76"
+  },
+  {
+    "date": "2020-04-05T04:58:24Z",
+    "code": "MKD",
+    "payee": "Vectren Corporation",
+    "debit": "$2288.20",
+    "credit": "$81.41"
+  },
+  {
+    "date": "2021-01-15T08:06:10Z",
+    "code": "SEK",
+    "payee": "Zoe's Kitchen, Inc.",
+    "debit": "$1397.22",
+    "credit": "$870.52"
+  },
+  {
+    "date": "2020-04-01T14:13:07Z",
+    "code": "BRL",
+    "payee": "Sophiris Bio, Inc.",
+    "debit": "$1037.00",
+    "credit": "$536.72"
+  },
+  {
+    "date": "2020-10-19T16:41:59Z",
+    "code": "PLN",
+    "payee": "Kulicke and Soffa Industries, Inc.",
+    "debit": "$3302.44",
+    "credit": "$595.70"
+  },
+  {
+    "date": "2020-02-18T20:36:57Z",
+    "code": "LTL",
+    "payee": "New York REIT, Inc.",
+    "debit": "$2055.19",
+    "credit": "$760.93"
+  },
+  {
+    "date": "2020-02-19T00:57:34Z",
+    "code": "IDR",
+    "payee": "C",
+    "debit": "$1884.20",
+    "credit": "$195.43"
+  },
+  {
+    "date": "2020-01-29T23:56:49Z",
+    "code": "RUB",
+    "payee": "Old Second Bancorp, Inc.",
+    "debit": "$2642.93",
+    "credit": "$815.88"
+  },
+  {
+    "date": "2021-01-04T20:54:07Z",
+    "code": "MNT",
+    "payee": "VelocityShares 3x Long Silver ETN",
+    "debit": "$3081.00",
+    "credit": "$1736.92"
+  },
+  {
+    "date": "2020-02-03T19:07:55Z",
+    "code": "CNY",
+    "payee": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+    "debit": "$957.69",
+    "credit": "$1439.44"
+  },
+  {
+    "date": "2020-06-24T13:55:51Z",
+    "code": "CNY",
+    "payee": "NantKwest, Inc.",
+    "debit": "$2153.61",
+    "credit": "$224.02"
+  },
+  {
+    "date": "2020-11-19T20:29:09Z",
+    "code": "CNY",
+    "payee": "WCF Bancorp, Inc.",
+    "debit": "$2846.94",
+    "credit": "$1926.04"
+  },
+  {
+    "date": "2020-09-27T14:00:20Z",
+    "code": "CNY",
+    "payee": "Ericsson",
+    "debit": "$43.75",
+    "credit": "$1512.99"
+  },
+  {
+    "date": "2021-01-09T06:35:19Z",
+    "code": "CNY",
+    "payee": "Sirius XM Holdings Inc.",
+    "debit": "$1032.01",
+    "credit": "$490.25"
+  },
+  {
+    "date": "2020-07-30T20:01:58Z",
+    "code": "EUR",
+    "payee": "Morgan Stanley",
+    "debit": "$2948.33",
+    "credit": "$1788.11"
+  },
+  {
+    "date": "2020-06-10T22:55:28Z",
+    "code": "SYP",
+    "payee": "Orion Energy Systems, Inc.",
+    "debit": "$2089.35",
+    "credit": "$924.27"
+  },
+  {
+    "date": "2020-03-12T16:08:37Z",
+    "code": "BRL",
+    "payee": "Neurotrope, Inc.",
+    "debit": "$3419.93",
+    "credit": "$6.10"
+  },
+  {
+    "date": "2020-02-02T16:35:54Z",
+    "code": "IDR",
+    "payee": "Hudson Technologies, Inc.",
+    "debit": "$1526.83",
+    "credit": "$55.08"
+  },
+  {
+    "date": "2020-02-22T11:26:16Z",
+    "code": "PEN",
+    "payee": "SunTrust Banks, Inc.",
+    "debit": "$2588.79",
+    "credit": "$1944.89"
+  },
+  {
+    "date": "2020-08-31T00:02:03Z",
+    "code": "EUR",
+    "payee": "CryoPort, Inc.",
+    "debit": "$1422.54",
+    "credit": "$1725.14"
+  },
+  {
+    "date": "2020-06-30T15:25:52Z",
+    "code": "ARS",
+    "payee": "Constellation Brands Inc",
+    "debit": "$3248.43",
+    "credit": "$219.78"
+  },
+  {
+    "date": "2020-03-15T14:00:05Z",
+    "code": "IDR",
+    "payee": "Precision Drilling Corporation",
+    "debit": "$3373.74",
+    "credit": "$427.74"
+  },
+  {
+    "date": "2020-09-24T11:13:58Z",
+    "code": "COP",
+    "payee": "Calpine Corporation",
+    "debit": "$3116.79",
+    "credit": "$1044.68"
+  },
+  {
+    "date": "2021-01-18T23:15:04Z",
+    "code": "EUR",
+    "payee": "Granite Construction Incorporated",
+    "debit": "$581.95",
+    "credit": "$1004.93"
+  },
+  {
+    "date": "2020-05-13T06:04:36Z",
+    "code": "JMD",
+    "payee": "Chesapeake Lodging Trust",
+    "debit": "$1012.95",
+    "credit": "$1822.50"
+  },
+  {
+    "date": "2020-12-15T18:33:14Z",
+    "code": "MGA",
+    "payee": "Gabelli Dividend",
+    "debit": "$3235.42",
+    "credit": "$1463.87"
+  },
+  {
+    "date": "2020-04-25T17:56:35Z",
+    "code": "BRL",
+    "payee": "Assured Guaranty Ltd.",
+    "debit": "$1697.16",
+    "credit": "$121.35"
+  },
+  {
+    "date": "2020-01-30T19:15:02Z",
+    "code": "BRL",
+    "payee": "State Street Corporation",
+    "debit": "$787.70",
+    "credit": "$871.55"
+  },
+  {
+    "date": "2021-01-02T11:59:49Z",
+    "code": "UZS",
+    "payee": "CPI Card Group Inc.",
+    "debit": "$3290.79",
+    "credit": "$872.79"
+  },
+  {
+    "date": "2020-04-10T15:41:40Z",
+    "code": "CZK",
+    "payee": "Colony NorthStar, Inc.",
+    "debit": "$2504.25",
+    "credit": "$258.16"
+  },
+  {
+    "date": "2020-03-27T05:23:22Z",
+    "code": "CNY",
+    "payee": "Penn Virginia Corporation",
+    "debit": "$2341.69",
+    "credit": "$1682.32"
+  },
+  {
+    "date": "2020-07-03T14:46:26Z",
+    "code": "PHP",
+    "payee": "VTTI Energy Partners LP",
+    "debit": "$1994.57",
+    "credit": "$453.50"
+  },
+  {
+    "date": "2021-01-12T10:58:59Z",
+    "code": "BWP",
+    "payee": "MTS Systems Corporation",
+    "debit": "$2447.34",
+    "credit": "$1638.58"
+  },
+  {
+    "date": "2020-06-24T10:00:17Z",
+    "code": "PKR",
+    "payee": "Aemetis, Inc",
+    "debit": "$2356.60",
+    "credit": "$966.21"
+  },
+  {
+    "date": "2020-04-20T05:08:26Z",
+    "code": "NOK",
+    "payee": "QCR Holdings, Inc.",
+    "debit": "$2860.40",
+    "credit": "$1003.93"
+  },
+  {
+    "date": "2020-03-28T19:34:40Z",
+    "code": "XAF",
+    "payee": "MFA Financial, Inc.",
+    "debit": "$3258.59",
+    "credit": "$458.15"
+  },
+  {
+    "date": "2020-12-30T00:07:55Z",
+    "code": "PLN",
+    "payee": "Smith Micro Software, Inc.",
+    "debit": "$2353.89",
+    "credit": "$460.05"
+  },
+  {
+    "date": "2020-10-30T14:14:39Z",
+    "code": "PHP",
+    "payee": "Nustar Energy L.P.",
+    "debit": "$1383.44",
+    "credit": "$873.29"
+  },
+  {
+    "date": "2020-07-06T11:07:33Z",
+    "code": "PLN",
+    "payee": "ArcBest Corporation",
+    "debit": "$424.59",
+    "credit": "$432.11"
+  },
+  {
+    "date": "2020-05-18T23:29:00Z",
+    "code": "CNY",
+    "payee": "GMS Inc.",
+    "debit": "$180.34",
+    "credit": "$891.40"
+  },
+  {
+    "date": "2020-08-27T12:26:13Z",
+    "code": "YER",
+    "payee": "iShares S&P India Nifty 50 Index Fund",
+    "debit": "$601.07",
+    "credit": "$718.32"
+  },
+  {
+    "date": "2020-07-16T12:22:18Z",
+    "code": "PHP",
+    "payee": "John Hancock Investors Trust",
+    "debit": "$3988.75",
+    "credit": "$88.46"
+  },
+  {
+    "date": "2020-04-16T10:53:16Z",
+    "code": "RUB",
+    "payee": "P & F Industries, Inc.",
+    "debit": "$3072.15",
+    "credit": "$1787.60"
+  },
+  {
+    "date": "2020-01-04T01:59:34Z",
+    "code": "KMF",
+    "payee": "First Trust NASDAQ Global Auto Index Fund",
+    "debit": "$195.92",
+    "credit": "$1514.41"
+  },
+  {
+    "date": "2020-05-06T14:19:05Z",
+    "code": "CNY",
+    "payee": "PowerShares S&P SmallCap Energy Portfolio",
+    "debit": "$2491.93",
+    "credit": "$1793.79"
+  },
+  {
+    "date": "2020-12-15T08:20:54Z",
+    "code": "MNT",
+    "payee": "Banco Santander Chile",
+    "debit": "$1054.31",
+    "credit": "$1388.73"
+  },
+  {
+    "date": "2020-11-05T07:35:03Z",
+    "code": "CNY",
+    "payee": "ChannelAdvisor Corporation",
+    "debit": "$2942.73",
+    "credit": "$122.03"
+  },
+  {
+    "date": "2020-10-24T12:21:48Z",
+    "code": "CNY",
+    "payee": "Apple Hospitality REIT, Inc.",
+    "debit": "$650.26",
+    "credit": "$1855.78"
+  },
+  {
+    "date": "2020-01-05T12:39:08Z",
+    "code": "EUR",
+    "payee": "VivoPower International PLC",
+    "debit": "$2141.24",
+    "credit": "$1352.40"
+  },
+  {
+    "date": "2020-09-18T00:15:08Z",
+    "code": "EUR",
+    "payee": "ORBCOMM Inc.",
+    "debit": "$1367.92",
+    "credit": "$200.07"
+  },
+  {
+    "date": "2020-09-15T16:58:25Z",
+    "code": "ETB",
+    "payee": "Briggs & Stratton Corporation",
+    "debit": "$2604.13",
+    "credit": "$1118.88"
+  },
+  {
+    "date": "2020-12-29T11:44:29Z",
+    "code": "CNY",
+    "payee": "PowerShares S&P SmallCap Consumer Staples Portfolio",
+    "debit": "$1988.73",
+    "credit": "$1756.87"
+  },
+  {
+    "date": "2020-07-06T20:29:45Z",
+    "code": "EUR",
+    "payee": "Caladrius Biosciences, Inc.",
+    "debit": "$3436.87",
+    "credit": "$544.83"
+  },
+  {
+    "date": "2020-08-30T13:01:31Z",
+    "code": "EUR",
+    "payee": "John Hancock Income Securities Trust",
+    "debit": "$828.00",
+    "credit": "$854.28"
+  },
+  {
+    "date": "2020-11-09T23:00:57Z",
+    "code": "DOP",
+    "payee": "Pandora Media, Inc.",
+    "debit": "$1365.08",
+    "credit": "$666.65"
+  },
+  {
+    "date": "2020-01-04T01:34:11Z",
+    "code": "VND",
+    "payee": "Medical Transcription Billing, Corp.",
+    "debit": "$741.00",
+    "credit": "$90.24"
+  },
+  {
+    "date": "2020-09-02T14:37:15Z",
+    "code": "HUF",
+    "payee": "DexCom, Inc.",
+    "debit": "$2541.57",
+    "credit": "$541.09"
+  },
+  {
+    "date": "2020-05-29T15:17:38Z",
+    "code": "RUB",
+    "payee": "iShares MSCI China ETF",
+    "debit": "$1748.59",
+    "credit": "$604.21"
+  },
+  {
+    "date": "2020-10-28T21:52:33Z",
+    "code": "BYR",
+    "payee": "StarTek, Inc.",
+    "debit": "$2954.21",
+    "credit": "$967.13"
+  },
+  {
+    "date": "2020-11-27T15:23:08Z",
+    "code": "CNY",
+    "payee": "Morgan Stanley",
+    "debit": "$1865.55",
+    "credit": "$1086.99"
+  },
+  {
+    "date": "2020-02-21T10:56:04Z",
+    "code": "CNY",
+    "payee": "Halyard Health, Inc.",
+    "debit": "$1952.34",
+    "credit": "$1028.81"
+  },
+  {
+    "date": "2020-08-04T13:08:34Z",
+    "code": "IDR",
+    "payee": "Daktronics, Inc.",
+    "debit": "$3594.66",
+    "credit": "$252.02"
+  },
+  {
+    "date": "2020-07-02T20:00:00Z",
+    "code": "THB",
+    "payee": "Carvana Co.",
+    "debit": "$1801.00",
+    "credit": "$319.40"
+  },
+  {
+    "date": "2020-05-04T08:06:40Z",
+    "code": "EUR",
+    "payee": "Marine Products Corporation",
+    "debit": "$2590.59",
+    "credit": "$789.18"
+  },
+  {
+    "date": "2020-06-19T07:17:55Z",
+    "code": "IDR",
+    "payee": "Castlight Health, inc.",
+    "debit": "$3924.92",
+    "credit": "$12.09"
+  },
+  {
+    "date": "2020-02-21T03:47:55Z",
+    "code": "GYD",
+    "payee": "Bank of America Corporation",
+    "debit": "$1942.23",
+    "credit": "$1026.38"
+  },
+  {
+    "date": "2021-01-22T15:58:59Z",
+    "code": "EGP",
+    "payee": "Marinus Pharmaceuticals, Inc.",
+    "debit": "$3901.73",
+    "credit": "$1449.73"
+  },
+  {
+    "date": "2020-03-26T10:26:33Z",
+    "code": "GEL",
+    "payee": "Delaware Investments Dividend & Income Fund, Inc.",
+    "debit": "$2255.64",
+    "credit": "$935.55"
+  },
+  {
+    "date": "2020-09-12T11:55:13Z",
+    "code": "EUR",
+    "payee": "Cellect Biotechnology Ltd.",
+    "debit": "$3273.24",
+    "credit": "$652.75"
+  },
+  {
+    "date": "2020-01-04T05:40:53Z",
+    "code": "MNT",
+    "payee": "Noble Midstream Partners LP",
+    "debit": "$3810.19",
+    "credit": "$481.12"
+  },
+  {
+    "date": "2020-02-06T00:57:24Z",
+    "code": "CNY",
+    "payee": "Kandi Technologies Group, Inc.",
+    "debit": "$3099.73",
+    "credit": "$280.63"
+  },
+  {
+    "date": "2020-08-12T00:09:03Z",
+    "code": "CNY",
+    "payee": "Gentex Corporation",
+    "debit": "$2234.83",
+    "credit": "$1087.09"
+  },
+  {
+    "date": "2020-05-11T12:36:32Z",
+    "code": "EUR",
+    "payee": "Banco Santander Brasil SA",
+    "debit": "$380.39",
+    "credit": "$1916.47"
+  },
+  {
+    "date": "2020-04-10T10:37:16Z",
+    "code": "THB",
+    "payee": "R.R. Donnelley & Sons Company",
+    "debit": "$268.46",
+    "credit": "$1244.64"
+  }
+]
