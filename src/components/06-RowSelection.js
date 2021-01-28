@@ -12,7 +12,7 @@ import { GlobalFilter } from "./assets/GlobalFilter";
 import { ColumnFilter } from "./assets/ColumnFilter";
 import { PayeeFilter } from "./assets/PayeeFilter";
 
-export default function Pagination() {
+export default function RowSelection() {
   // raw data for the table, memoised to prevent re-rendering
   const data = useMemo(() => dataJSON, []);
 
