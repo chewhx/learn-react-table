@@ -22,7 +22,6 @@ export default function Sorting() {
     prepareRow,
   } = tableInstance;
 
-  console.log("tableInstance", tableInstance);
 
   return (
     <table className="table table-striped table-hover" {...getTableProps()}>
