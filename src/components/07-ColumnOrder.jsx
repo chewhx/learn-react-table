@@ -5,14 +5,17 @@ import {
   useGlobalFilter,
   useFilters,
   usePagination,
+  useRowSelect,
+  useColumnOrder,
 } from "react-table";
 import dataJSON from "./assets/data.json";
 import { COLUMNS } from "./assets/columns";
 import { GlobalFilter } from "./assets/GlobalFilter";
 import { ColumnFilter } from "./assets/ColumnFilter";
 import { PayeeFilter } from "./assets/PayeeFilter";
+import { Checkbox } from "./assets/Checkbox";
 
-export default function RowSelection() {
+export default function ColumnOrder() {
   // raw data for the table, memoised to prevent re-rendering
   const data = useMemo(() => dataJSON, []);
 
@@ -35,7 +38,25 @@ export default function RowSelection() {
     useFilters,
     useGlobalFilter,
     useSortBy,
-    usePagination
+    usePagination,
+    useRowSelect,
+    useColumnOrder,
+    (hooks) => {
+      hooks.visibleColumns.push((columns) => {
+        return [
+          {
+            date: "selection",
+            Header: ({ getToggleAllRowsSelectedProps }) => (
+              <Checkbox {...getToggleAllRowsSelectedProps()} />
+            ),
+            Cell: ({ row }) => (
+              <Checkbox {...row.getToggleRowSelectedProps()} />
+            ),
+          },
+          ...columns,
+        ];
+      });
+    }
   );
 
   // destructure tableInstance
@@ -55,6 +76,8 @@ export default function RowSelection() {
     state,
     setGlobalFilter,
     setPageSize,
+    selectedFlatRows,
+    setColumnOrder,
   } = tableInstance;
 
   const { globalFilter, pageIndex, pageSize } = state;
@@ -65,9 +88,20 @@ export default function RowSelection() {
     return input;
   };
 
+  const changeOrder = () => {
+    setColumnOrder([
+      'payee',
+      'debit',
+      'credit',
+      'code',
+      'date',
+    ])
+  }
+
   return (
     <>
       <GlobalFilter filter={globalFilter} setFilter={setGlobalFilter} />
+      <button onClick={() => changeOrder()}>Change column order</button>
       <table className="table table-striped table-hover" {...getTableProps()}>
         <thead className="table-dark">
           {headerGroups.map((headerGroup) => (
@@ -114,14 +148,15 @@ export default function RowSelection() {
         />
       </div>
       <div>
-        <select options={pageSize} onChange={(e) => setPageSize(Number(e.target.value))}>
-          {
-            [10, 25, 50].map(pageSize => (
-              <option key={pageSize} value={pageSize}>
-                Show {pageSize}
-              </option>
-            ))
-          }
+        <select
+          options={pageSize}
+          onChange={(e) => setPageSize(Number(e.target.value))}
+        >
+          {[10, 25, 50].map((pageSize) => (
+            <option key={pageSize} value={pageSize}>
+              Show {pageSize}
+            </option>
+          ))}
         </select>
       </div>
       <button
@@ -152,6 +187,23 @@ export default function RowSelection() {
       >
         Last
       </button>
+      <pre>
+        <code>
+          {JSON.stringify(
+            {
+              selectedFlatRows: selectedFlatRows.map((row) => row.original),
+            },
+            null,
+            2
+          )}
+        </code>
+      </pre>
     </>
   );
 }
+
+//1. import useColumnOrder hook from React Table
+//2. pass as arg to useTable hook
+//3. destrcuture setColumnOrder
+//4. Create button on top of table, onClick to be a new fucntion (onChangeOrder) we will create 
+//5. onChangeOrder function will call 'setColumnOrder(), passing in an array of accessors
