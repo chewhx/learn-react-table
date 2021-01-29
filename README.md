@@ -193,3 +193,23 @@ const tableInstance = useTable(
 </select>
 ```
 
+# Rows Selection
+
+- Create Checkbox component which can handle indeterminate state. Copy code from React Table documentation example
+- **useRowSelect** hook
+- destructure 'selectedFlatRows' from tableInstance
+- add visible checkbox component into rows, by function which get hooks, at the tableInstance
+- for viewing the data of selected rows, insert a section in JSX page to display stringified json
+
+# Columns Order
+
+- **useColumnOrder** hook
+- destructure setColumnOrder from tableInstance
+- create button at top of table, set onClick to a user created function -> onChangeOrder()
+- onChangeOrder() will call setOrderColumn(), passing in an array of accessors, ordered in the desired column display order
+
+# Columns Hiding
+
+- destructure 'allColumns' and 'getToggleHideAllColumnsProps' from tableInstance
+- add Checkbox component which can handle indeterminate state on top of table, spreading getToggleHideAllColumnProps() 
+- add hide toggle checkbox for all columns, by mapping allColumns

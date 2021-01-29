@@ -7,11 +7,12 @@ import ColumnFilter from "./components/04-ColumnFiltering";
 import Pagination from "./components/05-Pagination";
 import RowSelection from "./components/06-RowSelection";
 import ColumnOrder from "./components/07-ColumnOrder";
+import ColumnHiding from './components/08-ColumnHiding'
 
 function App() {
   return (
     <div>
-      <ColumnOrder />
+      <ColumnHiding />
     </div>
   );
 }
